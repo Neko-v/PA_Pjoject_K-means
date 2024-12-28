@@ -1,4 +1,0 @@
-Non-parallel version running time: 0.24 seconds
-Number of threads = 2: Speedup = 0.00, Parallel version running time = 69.52 seconds
-Number of threads = 4: Speedup = 0.01, Parallel version running time = 47.63 seconds
-Number of threads = 8: Speedup = 0.01, Parallel version running time = 22.56 seconds
